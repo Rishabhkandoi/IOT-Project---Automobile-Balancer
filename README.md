@@ -1,2 +1,2 @@
 # IOT-Project---Automobile-Balancer
-To restrict toppling situation of automobile.
+Desined hardware to restrict toppling situation of automobile.
